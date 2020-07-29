@@ -1,4 +1,4 @@
-##### A repository for all the class documents and tutorials for Web Technologies
+### A repository for all the class documents and tutorials for Web Technologies
 ---
 please note that all master branch has the latest class notes/materials/tutorials/documents.
 To view individual class materials, follow these steps:
