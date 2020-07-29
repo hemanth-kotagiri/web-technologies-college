@@ -1,0 +1,78 @@
+Good Morning Students.
+Functions in Java Script
+1.Predefined 
+2.user defined
+==================================================
+Function Without Return Type
+============================
+<html>
+<script>
+function display()//defining
+{
+document.write("Welcome to Functions in Java Script");
+}
+</script>
+<body>
+<center>
+document.write("function is called");
+display();//calling
+</center>
+</body>
+</html>
+==================================================
+<html>
+<script>
+function add()//defining
+{
+var a,b;
+a=parseInt(prompt("Input A Val"));
+b=parseInt(prompt("Input B Val"));
+document.write("<b>Adding of 2 Numbers:</b>"+(a+b));
+}
+</script>
+<body>
+add();
+</body>
+</html>
+==================================================
+Function with Return Type.
+===========================
+
+<html>
+<script>
+function add()//defining
+{
+var a,b;
+a=parseInt(prompt("Input A Val"));
+b=parseInt(prompt("Input B Val"));
+return(a+b);
+}
+</script>
+<body>
+var c=add();
+document.write("Adding res"+c);
+</body>
+</html>
+==================================================
+Function with return type for big number b/w 2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
