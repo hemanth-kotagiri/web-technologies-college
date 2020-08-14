@@ -1,0 +1,56 @@
+Good Morning Students.
+Today's Agenda
+==============
+Personal Home Page
+HyperText Preprocessor
+
+1. PHP software installation.
+2. Folders of PHP.
+3. Executing Sample Program.
+4. Php Variable.
+
+
+Why Php?
+Java (Android)    JSP(Java Server Pages)(Java)
+Company:-Oracle
+
+Ms  c#(Windows)   ASP(Active Server Pages)(Dotnet)
+Microsoft
+
+Flavours of PHP
+===============
+XAMP Cross(x)
+A=apache
+M=Mysql
+p=Php
+=============
+WAMP=Windows
+MAMP=Macintosh(Mac)
+LAMP=Linux/Unix
+
+127.0.0.1 local host
+http://localhost
+
+192.168.0.1 WIfi Settings
+
+xampp Htdocs IMp Folder
+
+output
+======
+
+echo"<b> hello<br>";
+print"hi";
+echo"<br>";
+i=76;
+printf("i=%d",i);
+
+
+
+
+
+
+
+
+
+
+
