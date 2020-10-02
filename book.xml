@@ -1,0 +1,9 @@
+<!ELEMENT BOOK  <author,title,edition>
+<!ELEMENT BOOK  PCDATA
+
+<book>
+<Author>Dennis Rithie</Author>
+<title>C Complete Reference <title>
+<edition>Fifteenth edition</edition>
+></book>
+   
